@@ -20,9 +20,7 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
         </p>
 
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=huhusmang&show_icons=true&locale=en" alt="huhusmang" />
-</p>
+![huhu's GitHub stats](https://github-readme-stats-nu-six-46.vercel.app/api?username=huhusmang&show_icons=true&theme=tokyonight)
 
 
 <p>
