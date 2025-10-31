@@ -18,6 +18,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) ![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)
 
 # 📊 GitHub Stats:
-![huhu's GitHub stats](https://github-readme-stats-nu-six-46.vercel.app/api?username=huhusmang&show_icons=true&theme=tokyonight)<br/>
+![huhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=huhusmang&count_private=true&show_icons=true&theme=tokyonight)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=huhusmang&theme=nightowl&count_private=true)<br/>
         
